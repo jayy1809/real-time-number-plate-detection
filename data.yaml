@@ -1,0 +1,6 @@
+path : D:\Deep Learning\Number_plate_detection\numberplate_object_detection_ocr.v1i.yolov8 
+train: train/images
+val: valid/images
+
+names:
+    0: license
